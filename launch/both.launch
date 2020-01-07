@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+
+	<node name="py2" pkg="mixing_py2_py3_ros" type="py2.py" respawn="false" output="screen"/>
+	<node name="py3" pkg="mixing_py2_py3_ros" type="py3.py" respawn="false" output="screen"/>
+
+</launch>

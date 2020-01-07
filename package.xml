@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>mixing_py2_py3_ros</name>
+  <version>0.0.0</version>
+  <description>The mixing_py2_py3_ros package</description>
+  <maintainer email="lvb@mojin-robotics.de">lvb</maintainer>
+  <license>TODO</license>
+  <exec_depend>rospy</exec_depend>
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
